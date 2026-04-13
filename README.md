@@ -11,4 +11,4 @@ _a.k.a. Yorusaka Miyabi_
 
 ## Statistics
 
-![Statistics provided by GitHubCard](https://githubcard.com/g/VVc9vVTZ.svg)
+![Statistics provided by GitHubCard](https://githubcard.com/ShadowRZ.svg?d=-j0L7QfB)
