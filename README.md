@@ -1,7 +1,14 @@
-# @ShadowRZ/ShadowRZ
+# @ShadowRZ
 
-随意游走的人。
+> See the imaginations you created to the reality
 
-A person who wanders randomly.
+_a.k.a. Yorusaka Miyabi_
 
-[Look inside](https://github.com/ShadowRZ/ShadowRZ) for something that doesn't have a proper place to stay.
+## ↔️ To somewhere Else
+
+* [Blog](https://shadowrz.github.io/blog/)
+* [NixOS Discourse](https://discourse.nixos.org/u/shadowrz)
+
+## Statistics
+
+![Statistics provided by GitHubCard](https://githubcard.com/g/VVc9vVTZ.svg)
